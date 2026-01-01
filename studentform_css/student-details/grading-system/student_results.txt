@@ -1,0 +1,3 @@
+Name: pragathi, Roll: 22, Total: 201.2, Average: 40.24, Grade: F, Status: Pass
+Name: no, Roll: t, Total: 126.0, Average: 25.20, Grade: F, Status: Fail
+Name: Pragathi, Roll: 24, Total: 386.0, Average: 77.20, Grade: C, Status: Pass

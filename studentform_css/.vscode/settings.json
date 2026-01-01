@@ -1,0 +1,10 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "Students Database",
+            "database": "d:\\Mini projects\\table\\students.db"
+        }
+    ]
+}
